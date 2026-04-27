@@ -1,1 +1,1 @@
-# Stock-Market-Prediction
+A Stock Market Prediction project is a software application designed to forecast the future value of company stocks or other financial instruments using historical data. These projects typically bridge the gap between complex financial indicators and actionable investment insights for traders and retail investors.
